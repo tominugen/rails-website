@@ -25,33 +25,33 @@
 //= require jquery-ui.js
 //= require owl.carousel.min.js
 	
-	jQuery(window).scroll(function(){
-		var upto2 = jQuery(window).scrollTop();
-		if(upto2 > 80) {
-			jQuery('.header-area-inner3').addClass("for-header-menu");
-		} else {
-			jQuery('.header-area-inner3').removeClass("for-header-menu");
-		}
-	});
+		jQuery(window).scroll(function(){
+			var upto2 = jQuery(window).scrollTop();
+			if(upto2 > 80) {
+				jQuery('.header-area-inner3').addClass("for-header-menu");
+			} else {
+				jQuery('.header-area-inner3').removeClass("for-header-menu");
+			}
+		});
 
-	jQuery(".header-item-inner i").click(function() {
-		jQuery(".side-menu").addClass("for-menu");
-	});
+		jQuery(".header-item-inner i").click(function() {
+			jQuery(".side-menu").addClass("for-menu");
+		});
 
-	jQuery(".side-menu-item i").click(function() {
-		jQuery(".side-menu").removeClass("for-menu");
-	});
+		jQuery(".side-menu-item i").click(function() {
+			jQuery(".side-menu").removeClass("for-menu");
+		});
 
-	$(".banner-item-inner div > i").click(function() {
-	    $("html, body").animate({ scrollTop: $(".build-area").offset().top }, 600);
-	});
+		$(".banner-item-inner div > i").click(function() {
+		    $("html, body").animate({ scrollTop: $(".build-area").offset().top }, 600);
+		});
 
-	$('.ziehharmonika').ziehharmonika({
-		collapsible: true,
-	});
+		$('.ziehharmonika').ziehharmonika({
+			collapsible: true,
+		});
 
-    jQuery( "#tabs" ).tabs();
+	    jQuery( "#tabs" ).tabs();
 
-	jQuery('[data-serialscrolling]').serialscrolling();
+		jQuery('[data-serialscrolling]').serialscrolling();
 
-	new WOW().init();
+		new WOW().init();
