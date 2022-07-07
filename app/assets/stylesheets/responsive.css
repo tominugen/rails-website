@@ -1,0 +1,1248 @@
+/*
+====================================
+large Screen - Others
+====================================
+*/
+@media screen and (min-width: 1441px) and (max-width: 1700px) {
+
+
+
+
+
+
+
+.banner-item h2 {
+    font-size: 150px;
+}
+
+.banner-item h2 span {
+    margin-top: -40px;
+}
+
+/*=== build area start ===*/
+
+.build-item2 h2 {
+    font-size: 85px;
+    line-height: 80px;
+}
+
+/*=== ready area start ===*/
+
+.ready-item-inner h2 {
+    font-size: 160px;
+    line-height: 150px;
+}
+
+/*=== how it works page start ===*/
+
+.process-area-inner2 .common-item h2 {
+	font-size: 98px;
+}
+
+/*=== what we look for page start ===*/
+
+.banner-item3 h2 {
+    font-size: 145px;
+}
+
+.change-item2 h2 {
+    font-size: 177px;
+    line-height: 170px;
+}
+
+/*=== faqs page start ===*/
+
+.process-item11 h2 {
+    font-size: 85px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+
+
+
+
+
+
+
+.banner-item h2 {
+    font-size: 110px;
+}
+
+.banner-item h2 span {
+    margin-top: -20px;
+    margin-bottom: 15px;
+}
+
+/*=== build area start ===*/
+
+.build-item2 h2 {
+    font-size: 65px;
+    line-height: 70px;
+}
+
+/*=== reverse area start ===*/
+
+.reverse-item h2 {
+    font-size: 65px;
+    line-height: 70px;
+    max-width: 510px;
+}
+
+.reverse-item p br {
+	display: none;
+}
+
+/*=== ready area start ===*/
+
+.ready-item-inner h2 {
+    font-size: 120px;
+    line-height: 115px;
+}
+
+/*=== about page start ===*/
+
+.reverse-area2 .reverse-item h2 {
+    max-width: 550px;
+}
+
+/*=== common area start ===*/
+
+.common-item h2 {
+    font-size: 85px;
+    line-height: 80px;
+}
+
+/*=== change area start ===*/
+
+.change-item h2 {
+    font-size: 150px;
+    line-height: 140px;
+}
+
+/*=== how it works page start ===*/
+
+.process-item2 {
+    min-height: 760px;
+}
+
+.process-area-inner2 .common-item h2 {
+	font-size: 80px;
+}
+
+.change-item2 h2 {
+    font-size: 145px;
+    line-height: 140px;
+}
+
+.modal-area > .fa-times {
+    right: 50px;
+}
+
+.company-area {
+    max-width: 800px;
+    padding-left: 70px;
+}
+
+/*=== faqs page start ===*/
+
+#nav-serialscrolling .sub-link {
+    font-size: 38px;
+}
+
+.process-item11 h2 {
+    font-size: 75px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+
+
+
+
+
+.banner-item h2 {
+    font-size: 65px;
+}
+
+.banner-item h2 span {
+    margin-top: -20px;
+    margin-bottom: 15px;
+}
+
+/*=== build area start ===*/
+
+.build-item2 h2 {
+    font-size: 52px;
+    line-height: 50px;
+}
+
+/*=== reverse area start ===*/
+
+.reverse-item h2 {
+    font-size: 52px;
+    line-height: 50px;
+}
+
+.reverse-item p br {
+	display: none;
+}
+
+/*=== ready area start ===*/
+
+.ready-item-inner h2 {
+    font-size: 62px;
+    line-height: 60px;
+}
+
+.ready-item-inner2 {
+    max-width: 620px;
+}
+
+/*=== reverse area3 start ===*/
+
+.reverse-item5 marquee {
+    font-size: 250px;
+    line-height: 240px;
+}
+
+/*=== common area start ===*/
+
+.common-item h2 {
+    font-size: 55px;
+    line-height: 60px;
+}
+
+.common-item2 ul li {
+    padding: 30px 0;
+}
+
+/*=== find area start ===*/
+
+.find-item2 h2 {
+    font-size: 75px;
+    line-height: 70px;
+}
+
+/*=== change area start ===*/
+
+.change-item h2 {
+    font-size: 90px;
+    line-height: 80px;
+}
+
+/*=== how it works page start ===*/
+
+.process-item2 {
+    padding: 30px 20px 35px;
+}
+
+.process-item2 {
+	min-height: 620px;
+}
+
+.process-item2 h2 {
+    font-size: 30px;
+    margin: 0 0 40px;
+}
+
+.process-item2 p {
+    font-size: 20px;
+}
+
+.process-item2-inner2 img {
+    max-width: 100px;
+}
+
+.process-area-inner {
+    padding-top: 150px;
+}
+
+.process-area3 .process-area-inner {
+    padding-top: 120px;
+    padding-bottom: 140px;
+}
+
+.modal-area > .fa-times {
+    width: 50px;
+    height: 50px;
+    top: 40px;
+    right: 30px;
+}
+
+.company-area {
+    max-width: 700px;
+    padding-left: 50px;
+}
+
+/*=== faqs page start ===*/
+
+#nav-serialscrolling .sub-link {
+    font-size: 28px;
+}
+
+.process-item11 h2 {
+    font-size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+
+
+.header-item-inner img {
+    max-width: 150px;
+}
+
+.header-item-inner2 ul li a {
+    font-size: 14px;
+    margin-right: 20px;
+}
+
+.header-item-inner2 ul li:last-of-type a {
+    width: 150px;
+    height: 55px;
+    margin-right: 0;
+    margin-left: 5px;
+    border-radius: 30px;
+}
+
+.banner-item h2 {
+    font-size: 42px;
+}
+
+.banner-item h2 span {
+    margin-top: -0px;
+    margin-bottom: 25px;
+}
+
+/*=== build area start ===*/
+
+.build-area {
+    padding: 100px 0 20px;
+}
+
+.build-item2 h2 {
+    font-size: 42px;
+    margin: 0 0 20px;
+    line-height: 50px;
+}
+
+.build-item2 p {
+    margin: 0 0 35px;
+}
+
+/*=== reverse area start ===*/
+
+.reverse-area {
+    padding: 120px 0 70px;
+}
+
+.reverse-area-inner {
+    padding-bottom: 200px;
+}
+
+.reverse-item h2 {
+    font-size: 42px;
+    line-height: 50px;
+}
+
+.reverse-item p br {
+	display: none;
+}
+
+/*=== ready area start ===*/
+
+.ready-item-inner h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+
+/*=== newsletter area start ===*/
+
+.newsletter-area {
+    padding: 120px 0;
+}
+
+.newsletter-item-inner input {
+    font-size: 32px;
+}
+
+.newsletter-item-inner input::placeholder {
+    font-size: 40px;
+}
+
+/*=== footer area start ===*/
+
+.footer-item2 ul {
+    flex-direction: column;
+}
+
+.footer-item2 ul li {
+	width: 100%;
+}
+
+.footer-item2 ul li a {
+    font-size: 12px;
+    padding: 20px 5px;
+    width: 100%;
+    text-align: center;
+}
+
+.footer-item2 ul li:last-of-type a {
+    margin-left: 0px;
+    margin-top: 15px;
+}
+
+/*=== about page start ===*/
+
+.banner-item2 p br {
+	display: none;
+}
+
+/*=== about page start ===*/
+
+.reverse-area2 .reverse-item p {
+    margin-bottom: 35px;
+}
+
+.reverse-item3 {
+    margin-top: -410px;
+}
+
+.reverse-item3 img {
+    margin: 0 auto 60px;
+}
+
+/*=== reverse area3 start ===*/
+
+.reverse-area3 {
+    padding: 120px 0 0;
+}
+
+.reverse-area3 .reverse-area-inner {
+    padding-bottom: 120px;
+}
+
+.reverse-item5 marquee {
+    font-size: 200px;
+    line-height: 190px;
+}
+
+.reverse-area-inner2 {
+    padding-bottom: 120px;
+}
+
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev {
+	display: none;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    display: block;
+}
+
+/*=== common area start ===*/
+
+.common-area {
+    padding: 100px 0 75px;
+}
+
+.common-item h2 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.common-item2 ul li {
+    padding: 25px 0;
+}
+
+/*=== find area start ===*/
+
+.find-area {
+    padding: 100px 0;
+}
+
+.find-item {
+    margin: 0 auto 60px;
+}
+
+.find-item2 h2 {
+    font-size: 45px;
+    line-height: 50px;
+}
+
+/*=== change area start ===*/
+
+.change-item h2 {
+    font-size: 70px;
+    margin: 0 0 40px;
+    line-height: 60px;
+}
+
+/*=== how it works page start ===*/
+
+.process-area {
+    padding: 100px 0;
+}
+
+.process-item {
+    margin-bottom: 50px;
+}
+
+.process-item2 {
+    padding: 30px 20px 35px;
+}
+
+.process-item2 h2 {
+    font-size: 36px;
+    margin: 0 0 40px;
+}
+
+.process-item2-inner2 img {
+    max-width: 120px;
+}
+
+.process-area-inner {
+    padding-top: 100px;
+    padding-bottom: 80px;
+}
+
+.ziehharmonika h3 {
+	font-size: 22px;
+    padding: 30px 0px;
+    padding-right: 50px;
+}
+
+.ziehharmonika > div {
+    padding-bottom: 30px;
+}
+
+.ziehharmonika > div p span {
+    margin-top: 25px;
+}
+
+.ziehharmonika .collapseIcon {
+    width: 40px;
+    height: 40px;
+    font-size: 12px;
+}
+
+/*=== what we look for page start ===*/
+
+.process-area2 {
+    padding: 100px 0;
+}
+
+.process-area2 .common-item p {
+	font-size: 18px;
+    margin: 25px 0 0;
+}
+
+.process-item3-inner {
+    padding-top: 30px;
+}
+
+.process-area3 .process-area-inner {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.process-area3 .reverse-item2-inner h2 {
+    font-size: 30px;
+}
+
+.process-area3 .reverse-item2-inner3 h6 {
+    font-size: 18px;
+}
+
+.modal-area > .fa-times {
+    width: 50px;
+    height: 50px;
+    top: 40px;
+    right: 30px;
+}
+
+.company-area {
+    padding-left: 50px;
+}
+
+/*=== faqs page start ===*/
+
+#nav-serialscrolling .sub-link {
+    font-size: 21px;
+}
+
+.process-item11 h2 {
+    font-size: 42px;
+    margin: 0 0 30px;
+}
+
+.process-item3-inner7 {
+    padding-top: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {	
+
+
+
+
+
+.header-area {
+	overflow-x: hidden;
+}
+
+.header-area-inner2 {
+    width: 160%;
+}
+
+.header-area-inner3 {
+    top: 10px;
+}
+
+.header-area-inner {   
+    padding: 30px 0 120px;
+}
+
+.header-item-inner {
+	width: 100%;
+}
+
+.header-item-inner img {
+    max-width: 100px;
+}
+
+.header-item-inner i {
+	display: flex;
+}
+
+.header-item-inner2  {
+    display: none;
+}
+
+.banner-item h2 {
+    font-size: 32px;
+}
+
+.banner-item h2 span {
+    margin-top: -0px;
+    margin-bottom: 25px;
+}
+
+.banner-item p {
+    font-size: 18px;
+}
+
+.banner-item p br {
+	display: none;
+}
+
+.banner-item a {
+    font-size: 14px;
+    width: 150px;
+    height: 45px;
+    border-radius: 25px;
+    margin: 0 0 30px;
+}
+
+.banner-item-inner div > i {
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+}
+
+
+/*=== build area start ===*/
+
+.build-area {
+    padding: 70px 0 40px;
+}
+
+.build-area-inner {
+    padding-bottom: 0px;
+}
+
+.build-item {
+    width: 100%;
+    margin-bottom: 40px;
+    padding: 0;
+}
+
+.build-item2 {
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.build-item2 h2 {
+    font-size: 32px;
+    margin: 0 0 20px;
+    line-height: 40px;
+}
+
+.build-item2 p {
+    margin: 0 0 35px;
+}
+
+.build-area-inner2 {
+    flex-direction: column-reverse;
+}
+
+/*=== reverse area start ===*/
+
+.reverse-area {
+    padding: 80px 0 70px;
+}
+
+.reverse-area-inner {
+    padding-bottom: 100px;
+}
+
+.reverse-item h2 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.reverse-item p {
+    margin: 25px 0 0;
+}
+
+.reverse-item p br {
+	display: none;
+}
+
+.reverse-item2-inner2 {
+	width: 100%;
+	padding-bottom: 30px;
+}
+
+.reverse-item2-inner h2 {
+    font-size: 32px;
+    margin: 0 0 20px;
+}
+
+.reverse-item2-inner3 {
+	width: 100%;
+}
+
+/*=== ready area start ===*/
+
+.ready-item-inner h2 {
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.ready-item-inner2 p {
+    margin: 35px 0;
+}
+
+.ready-item-inner2 p br {
+	display: none;
+}
+
+.ready-item-inner2 p span {
+    margin-top: 20px;
+}
+
+/*=== newsletter area start ===*/
+
+.newsletter-area {
+    padding: 50px 0;
+}
+
+.newsletter-item h3 {
+    margin: 0 0 30px;
+}
+
+.newsletter-item-inner input {
+    font-size: 20px;
+}
+
+.newsletter-item-inner input::placeholder {
+    font-size: 30px;
+}
+
+/*=== footer area start ===*/
+
+.footer-area {
+    padding: 60px 0;
+}
+
+.footer-item img {
+    margin-bottom: 25px;
+}
+
+.footer-item h3 {
+    font-size: 13px;
+    margin: 0 0 20px;
+}
+
+.footer-item ul li a {
+    font-size: 15px;
+    margin-bottom: 2px;
+}
+
+.footer-item p {
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    margin: 0 0 25px;
+}
+
+.footer-area-inner {
+    padding-top: 35px;
+}
+
+.footer-item2 ul {
+	flex-wrap: wrap;
+}
+
+.footer-item2 ul li {
+	width: 100%;
+}
+
+.footer-item2 ul li a {
+    font-size: 12px;
+    padding: 20px 5px;
+    width: 100%;
+    text-align: center;
+}
+
+.footer-item2 ul li:last-of-type a {
+    margin: 15px 0;
+}
+
+/*=== about page start ===*/
+
+.reverse-area2 .reverse-item p {
+    margin-bottom: 35px;
+}
+
+.reverse-item3 {
+    margin-top: -250px;
+}
+
+.reverse-item3 img {
+    margin: 0 auto 50px;
+}
+
+/*=== reverse area3 start ===*/
+
+.reverse-area3 {
+    padding: 70px 0 0;
+}
+
+.reverse-area3 .reverse-area-inner {
+    padding-bottom: 70px;
+}
+
+.reverse-item5 {
+    padding: 0px 0 40px;
+}
+
+.reverse-item5 marquee {
+    font-size: 100px;
+    line-height: 90px;
+}
+
+.reverse-area-inner2 {
+    padding-bottom: 80px;
+}
+
+.owl-carousel .owl-nav button.owl-next, .owl-carousel .owl-nav button.owl-prev {
+	display: none;
+}
+
+.owl-theme .owl-dots .owl-dot span {
+    display: block;
+}
+
+/*=== common area start ===*/
+
+.common-area {
+    padding: 70px 0 50px;
+}
+
+.common-item h2 {
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 10px;
+}
+
+.common-item2 ul li {
+    padding: 20px 0;
+}
+
+/*=== find area start ===*/
+
+.find-area {
+    padding: 70px 0;
+}
+
+.find-item {
+    margin: 0 auto 50px;
+}
+
+.find-item ul {
+    margin: 0 -8px;
+}
+
+.find-item ul li {
+    padding: 0 8px;
+}
+
+.find-item ul li a {
+    font-size: 9px;
+    padding-bottom: 15px;
+}
+
+.find-item2 h2 {
+    font-size: 32px;
+    margin: 0 0 30px;
+    line-height: 40px;
+}
+
+.find-item2 a {
+    padding: 15px 30px;
+    border-radius: 25px;
+}
+
+/*=== change area start ===*/
+
+.change-area {
+    height: 100%;
+    padding: 70px 0;
+}
+
+.change-item h2 {
+    font-size: 32px;
+    margin: 0 0 20px;
+    line-height: 40px;
+}
+
+.change-item a {
+    padding: 15px 30px;
+    border-radius: 25px;
+}
+
+/*=== how it works page start ===*/
+
+.process-area {
+    padding: 70px 0;
+}
+
+.process-item {
+    margin-bottom: 40px;
+}
+
+.process-item2 {
+    padding: 30px 20px 35px;
+    min-height: 480px;
+}
+
+.process-item2 h2 {
+    font-size: 32px;
+    margin: 0 0 30px;
+}
+
+.process-item2-inner2 img {
+    max-width: 120px;
+}
+
+.process-area-inner {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.ziehharmonika h3 {
+	font-size: 22px;
+    padding: 25px 0px;
+    padding-right: 50px;
+}
+
+.ziehharmonika > div {
+    padding-bottom: 25px;
+}
+
+.ziehharmonika > div p span {
+    margin-top: 20px;
+}
+
+.ziehharmonika .collapseIcon {
+    width: 40px;
+    height: 40px;
+    font-size: 12px;
+}
+
+/*=== what we look for page start ===*/
+
+.process-area2 {
+    padding: 70px 0;
+}
+
+.process-area2 .common-item p {
+    margin: 25px 0 0;
+    max-width: 100%;
+}
+
+.process-item3-inner {
+    padding-top: 30px;
+}
+
+.process-area3 .process-area-inner {
+    padding-top: 40px;
+    padding-bottom: 60px;
+}
+
+.process-area3 .reverse-item2-inner2 {
+    width: 100%;
+}
+
+.process-area3 .reverse-item2-inner3 {
+    width: 100%;
+    padding-top: 20px;
+}
+
+.modal-area > .fa-times {
+    width: 40px;
+    height: 40px;
+    font-size: 15px;
+    top: 10px;
+    right: 10px;
+}
+
+.company-area {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.company-item {
+}
+
+.company-item ul {
+    margin: 0 -10px;
+}
+
+.company-item ul li {
+    padding: 0 10px;
+}
+
+.company-item2 {
+    padding: 50px 0 30px;
+}
+
+.company-item2 h2 {
+    font-size: 40px;
+    margin: 0 0 20px;
+    line-height: 50px;
+}
+
+.company-item2-inner {
+    padding: 30px 0;
+    margin-bottom: 30px;
+}
+
+.company-item3 {
+    padding: 30px 0;
+}
+
+/*=== faqs page start ===*/
+
+.application-area {
+    padding-bottom: 20px;
+}
+
+.application-item {
+    display: none;
+}
+
+.application-item2 {
+    padding-top: 60px;
+}
+
+.process-item11 h2 {
+    font-size: 32px;
+    margin: 0 0 30px;
+}
+
+.process-item3-inner7 {
+    padding-top: 70px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media screen and (min-width: 768px) {
+
+
+
+.side-menu {
+	display: none!important;
+}
+
+
+}
