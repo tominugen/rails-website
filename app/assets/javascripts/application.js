@@ -46,10 +46,6 @@
 	    $("html, body").animate({ scrollTop: $(".build-area").offset().top }, 600);
 	});
 
-	$(".banner-item-inner div > i").click(function() {
-    	$("html, body").animate({ scrollTop: $(".application-area").offset().top }, 600);
-	});
-
 	$('.ziehharmonika').ziehharmonika({
 		collapsible: true,
 	});
